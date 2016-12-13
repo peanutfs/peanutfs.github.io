@@ -1,2 +1,2 @@
-# peanutfs.github.io
-Allen Personal Blog
+# Bazinga 
+Bazinga's Blog
